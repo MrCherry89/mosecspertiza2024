@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "Roboto Slab";
+  src: url("../fonts/RobotoSlab-Light.woff2") format("woff2"),
+    url("../fonts/RobotoSlab-Light.woff") format("woff"),
+    url("../fonts/RobotoSlab-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Roboto Slab";
+  src: url("../fonts/RobotoSlab-Regular.woff2") format("woff2"),
+    url("../fonts/RobotoSlab-Regular.woff") format("woff"),
+    url("../fonts/RobotoSlab-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Coolvetica";
+  src: url("../fonts/CoolveticaCondensedBk-Regular.woff2") format("woff2"),
+    url("../fonts/CoolveticaCondensedBk-Regular.woff") format("woff"),
+    url("../fonts/CoolveticaCondensedBk-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Coolvetica";
+  src: url("../fonts/CoolveticaCondensedEl-Regular.ttf") format("woff2"),
+    url("../fonts/CoolveticaCondensedEl-Regular.ttf") format("woff"),
+    url("../fonts/CoolveticaCondensedEl-Regular.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
